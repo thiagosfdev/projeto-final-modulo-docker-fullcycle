@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagosfdev/modulo-docker.git"
+    "url": "git+https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle.git"
   },
   "author": "Thiago Soares Figueiredo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thiagosfdev/modulo-docker/issues"
+    "url": "https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle/issues"
   },
-  "homepage": "https://github.com/thiagosfdev/modulo-docker#readme"
+  "homepage": "https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle#readme"
 }

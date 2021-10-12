@@ -2,8 +2,9 @@
   "name": "modulo-docker",
   "version": "1.0.0",
   "description": "Projeto de conclusão do módulo de Docker",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "serve": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle/issues"
   },
-  "homepage": "https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle#readme"
+  "homepage": "https://github.com/thiagosfdev/projeto-final-modulo-docker-fullcycle#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.13"
+  }
 }
